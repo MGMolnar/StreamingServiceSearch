@@ -1,0 +1,23 @@
+/* .movieGenre{
+    display: flex;
+    flex-direction: row;
+}
+
+.movieGenre li{
+    font-size: 10px;
+}
+
+.movieContent{
+    display: flex;
+    flex-direction: row;
+}
+
+.movieContent li{
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+} */
+
+/* .movieContent{
+    border: 1px solid;
+} */

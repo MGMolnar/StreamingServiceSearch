@@ -1,0 +1,16 @@
+.searchButton {
+    background-color: #300;
+    font-size: 24px;
+    height: 56px;
+    width: 25%;
+    border: 5px solid #300
+  }
+
+.searchButton:hover{
+  background-color: black;
+  color: white;
+}
+
+/* .movieTable, .header{
+  border: 1px solid;
+} */
