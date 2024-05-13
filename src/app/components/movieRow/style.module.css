@@ -21,3 +21,17 @@
 /* .movieContent{
     border: 1px solid;
 } */
+
+.image{
+    transform: scale(0.75);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dataCell{
+    width:  100px;
+}
+
+.movieDetails{
+    margin-top: -25px;
+}

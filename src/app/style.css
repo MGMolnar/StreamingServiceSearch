@@ -1,7 +1,4 @@
-table, th, td {
-    border: 1px solid;
-    
-  }
+
 
 th,td{
     background-color: rgb(32, 32, 32);
@@ -9,12 +6,19 @@ th,td{
 
 td {
     font-size: 12px;
+    margin: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    align-items: center;
 }
 
-th{
-    font-size: 20px;
+tbody{
+    margin-right: auto;
+    margin-left: auto;
 }
 
 table{
-    width: 90%;
+    width: 85%;
+    float: right;
 }
